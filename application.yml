@@ -1,0 +1,13 @@
+configserver:
+    name: Test Spring Cloud Config Server
+    status: Connected to the Test Spring Cloud Config Server!
+
+# Default JWT secret token (to be changed in production!)
+jhipster:
+    security:
+        authentication:
+            jwt:
+                secret: sCh1IXCM3Rof4Zz4LYCcq7XqBSbUQMaj
+
+eureka:
+    region: us-west-2
